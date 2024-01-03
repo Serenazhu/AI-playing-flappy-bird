@@ -20,3 +20,5 @@ Historical Marking: To track innovations across generations, NEAT uses historica
 Adaptive Evolution: NEAT allows for the adaptive evolution of neural network structures. As the population evolves, the algorithm can discover and retain neural network architectures that prove to be more effective in solving the given problem.
 
 NEAT has been applied to various tasks, including game playing, robotics, and optimization problems. Its ability to dynamically evolve neural network structures has made it a popular choice for researchers interested in evolving complex, adaptive systems.
+
+Link to the paper: https://nn.cs.utexas.edu/downloads/papers/stanley.cec02.pdf
