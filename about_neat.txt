@@ -1,0 +1,7 @@
+Unlike traditional neural network training methods that rely on 
+gradient-based optimization algorithms, NEAT employs an evolutionary 
+approach instead. Each neural network is encoded as a genome. 
+NEAT evolves populations of neural networks over generations. 
+During evolution, it allows for the addition of new nodes and connections 
+to the neural network architecture, enabling the algorithm to explore more 
+complex structures over time.
